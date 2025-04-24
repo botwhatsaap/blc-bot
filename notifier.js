@@ -7,7 +7,7 @@ const {
 let sock;
 let ready = false;
 let isInitializing = false;
-const target = "213667699663@s.whatsapp.net"; // بدون +
+const target = "213770285417@s.whatsapp.net"; // بدون +
 
 async function initSocket() {
   if (isInitializing) return; // تجنب التهيئة المتكررة
